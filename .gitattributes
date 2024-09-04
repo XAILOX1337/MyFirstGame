@@ -1,0 +1,2 @@
+ForGosha-Windows.ucas filter=lfs diff=lfs merge=lfs -text
+ForGosha-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text
